@@ -2,4 +2,6 @@
 Basics of Python In 2 hours
 
 
-![Screenshot 2023-06-07 192909](https://github.com/Archita-Shankar/Basics-of-Python/assets/121395581/3e16c367-6fe4-4747-99e1-b5a8c91555d3)
+
+![basics of python](https://github.com/Archita-Shankar/Basics-of-Python/assets/121395581/a14171be-b59d-46ab-9067-5aba5f54318b)
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://basics of python" width="200" height="400" />
