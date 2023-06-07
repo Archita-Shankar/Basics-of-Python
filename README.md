@@ -3,5 +3,4 @@ Basics of Python In 2 hours
 
 
 
-![basics of python](https://github.com/Archita-Shankar/Basics-of-Python/assets/121395581/a14171be-b59d-46ab-9067-5aba5f54318b)
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://basics of python" width="200" height="400" />
+![basics-of-python](https://github.com/Archita-Shankar/Basics-of-Python/assets/121395581/d7e82a84-b3a8-4140-ab3f-54f399763f79)
